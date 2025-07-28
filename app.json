@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "expense-tracker-app",
+    "slug": "expense-tracker-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "scheme": "your-app-scheme",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {}
+    },
+    "web": {},
+    "plugins": ["expo-router"]
+  }
+}
